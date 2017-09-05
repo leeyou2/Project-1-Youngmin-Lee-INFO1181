@@ -1,7 +1,7 @@
 ﻿// Project-1
 // CS1181
 // Written By: Youngmin Lee
-// Sep 4th 2017
+// 4h September 2017
 // Anii Mandal 
 // Description – Displaying Hello world with Name when users click the button.
 // WOW: Display message box when project start "This is Hello App"
