@@ -34,15 +34,15 @@
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(144, 59);
+            this.txtName.Location = new System.Drawing.Point(115, 64);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(222, 22);
+            this.txtName.Size = new System.Drawing.Size(171, 22);
             this.txtName.TabIndex = 0;
             this.txtName.Text = "World";
             // 
             // btnSayHello
             // 
-            this.btnSayHello.Location = new System.Drawing.Point(186, 152);
+            this.btnSayHello.Location = new System.Drawing.Point(131, 118);
             this.btnSayHello.Name = "btnSayHello";
             this.btnSayHello.Size = new System.Drawing.Size(136, 44);
             this.btnSayHello.TabIndex = 1;
@@ -54,7 +54,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(535, 347);
+            this.ClientSize = new System.Drawing.Size(430, 258);
             this.Controls.Add(this.btnSayHello);
             this.Controls.Add(this.txtName);
             this.Name = "frmHelloApp";
